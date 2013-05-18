@@ -1,0 +1,56 @@
+<channels>
+
+<channel>
+
+<name>BELGESEL</name>
+<thumbnail>https://skyimg.googlecode.com/svn/trunk/tvres/ana/60-BELGESEL.png</thumbnail>
+<items>
+
+<item>
+<title>[COLOR darkgray]Discovery[/COLOR] Showcase[COLOR darkslategray]HD[/COLOR] [COLOR red]T[/COLOR][COLOR white]R[/COLOR][COLOR sienna] (ru-eng-[COLOR red]T[/COLOR][COLOR white]R[/COLOR])[/COLOR]</title>Discovery HD Showcase
+<link>http://95.188.125.130:1234/udp/233.7.70.253:5000</link>
+<thumbnail>https://skyimg.googlecode.com/svn/trunk/tvres/belgesel/discoveryshowcasehd.png</thumbnail>
+</item>
+
+<item>
+<title>TRT BELGESEL</title>
+<link>rtsp://95.0.159.139/TRTBELGESEL</link>
+<thumbnail>https://skyimg.googlecode.com/svn/trunk/tvres/belgesel/trtb.png</thumbnail>
+</item>
+
+<item>
+<title>BELGESEL HD 1</title>
+<link>http://yayin.networkbil.com/belgeseltv</link>
+<thumbnail>https://skyimg.googlecode.com/svn/trunk/tvres/belgesel/belgeselhd1.png</thumbnail>
+</item>
+
+<item>
+<title>BELGESEL HD 2</title>
+<link>http://yayin.networkbil.com/foxbelgesel</link>
+<thumbnail>https://skyimg.googlecode.com/svn/trunk/tvres/belgesel/belgeselhd2.png</thumbnail>
+</item>
+
+<item>
+<title>BELGESEL HD 3</title>
+<link>http://yayin.networkbil.com/ormantv</link>
+<thumbnail>https://skyimg.googlecode.com/svn/trunk/tvres/belgesel/belgeselhd3.png</thumbnail>
+</item>
+
+<item>
+<title>World Travel Channel</title>
+<link>rtmp://stream.taksimbilisim.com:1935/wtc/bant1</link>
+<thumbnail>https://skyimg.googlecode.com/svn/trunk/tvres/belgesel/wtc-logo.png</thumbnail>
+</item>
+
+<item>
+<title>TGRT BELGESEL</title>
+<link>rtmp://strm-3.tr.medianova.tv/tgrt_belgesel/tgrt_belgesel3</link>
+<thumbnail>https://skyimg.googlecode.com/svn/trunk/tvres/belgesel/tgrtb.png</thumbnail>
+</item>
+
+</items>
+
+</channel>
+
+</channels>
+

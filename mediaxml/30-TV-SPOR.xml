@@ -1,0 +1,119 @@
+ pageURL=
+ swfUrl=
+:1935
+
+<item>
+<title>SKY SPOR[COLOR darkgray]1[/COLOR] [COLOR lime]HD[/COLOR]</title>
+<link>rtmp://84.240.3.201:80/penkitv/50 swfUrl=http://cdn.octoshape.net/resources/player/infinitehd2/player-206-1302040.swf pageUrl=http://livehdsoccer.ucoz.net/ch1.htm live=true</link>
+<thumbnail>https://skyimg.googlecode.com/svn/trunk/tvres/spor/skysportghd1.png</thumbnail>
+</item>
+
+<item>
+<title>SKY SPOR[COLOR darkgray]1[/COLOR] [COLOR lime]HD[/COLOR]</title>
+<link>rtmp://5.152.222.108:1935/live2//trstreamnet1 swfUrl=http://www.canlitvx.com/jwplayer/jwplayer.flash.swf pageUrl=http://trstream.net/index-Dateien/channel1.htm live=true</link>
+<thumbnail>https://skyimg.googlecode.com/svn/trunk/tvres/spor/skysportghd1.png</thumbnail>
+</item>
+
+<item>
+<title>SKY SPOR[COLOR darkgray]1[/COLOR] [COLOR lime]HD[/COLOR]</title>
+<link>rtmp://5.152.222.108/live2/trstreamnet1 swfUrl=http://test.octoshape.com/test/arplayer2/octo_demo.swf pageUrl=http://test.octoshape.com/test/arplayer2/player.html?link=rtmp%3A%2F%2F5.152.222.108%2Flive2%2Ftrstreamnet1 live=true</link>
+<thumbnail>https://skyimg.googlecode.com/svn/trunk/tvres/spor/skysportghd1.png</thumbnail>
+</item>
+
+<item>
+<title>SKY SPOR[COLOR darkgray]1[/COLOR] [COLOR lime]HD[/COLOR]</title>
+<link>rtmp://109.123.117.108/live/bluesporsttsts?id=45645 swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf pageUrl=http://www.ucaster.eu/embedded/bluesporsttsts/1/600/410 conn=S:OK</link>
+<thumbnail>https://skyimg.googlecode.com/svn/trunk/tvres/spor/skysportghd1.png</thumbnail>
+</item>
+
+**********************************************************************************************************
+<item->
+<title>SKY SPOR[COLOR darkgray]1[/COLOR] [COLOR lime]HD[/COLOR]</title>
+<link>http://kardanadam.zapto.org:8080/</link>
+<thumbnail>https://skyimg.googlecode.com/svn/trunk/tvres/spor/skysportghd1.png</thumbnail>
+</item>
+
+<item->
+<title>SKY SMART SPOR[COLOR darkgray]1[/COLOR]</title>
+<link>rtmp://93.174.93.58/histreamEd/trsports5151 swfUrl=http://www.histream.tv/player.swf pageUrl=http://www.histream.tv/embed.php?file=trsports5151&width=600&height=460 live=true</link>
+<thumbnail>https://skyimg.googlecode.com/svn/trunk/tvres/spor/skysportgkhd1.png</thumbnail>
+</item>
+**********************************************************************************************************
+
+<item>
+<title>NTV Spor HD</title>
+<link>rtmpe://cp195822.live.edgefcs.net:1935/live playpath=1_d0cu2c39_2@93811 pageURL=http://www.tvyo.com swfUrl=http://dogus.kaltura.com.edgesuite.net live=true</link>
+<thumbnail>https://skyimg.googlecode.com/svn/trunk/tvres/spor/ntvsporhd.png</thumbnail>
+</item>
+
+<item>
+<title>TRT SPOR</title>
+<link>rtmp://trtspor-l.mncdn.com:1935/trtspor4/trtspor4</link>
+<thumbnail>https://skyimg.googlecode.com/svn/trunk/tvres/spor/trtspor.png</thumbnail>
+</item>
+
+<item>
+<title>SportsTV</title>
+<link>rtmp://stream.sportstv.com.tr/sportstv/SportsTV3</link>
+<thumbnail>https://skyimg.googlecode.com/svn/trunk/tvres/spor/sportstv.png</thumbnail>
+</item>
+
+<item>
+<title>GS TV</title>
+<link>rtmp://cdn21.motiwe.com/live/gstv370 app=live pageURL=http://gsstore.org/dosyalar/facebook/gstvvv/ swfUrl=http://cdn3.motiwe.com/player/player.swf live=true</link>
+<thumbnail>https://skyimg.googlecode.com/svn/trunk/tvres/spor/gstv.png</thumbnail>
+</item>
+
+<item>
+<title>FB TV</title>
+<link>rtmp://live.master.cubecdn.net/fbtv/stream1</link>
+<thumbnail>https://skyimg.googlecode.com/svn/trunk/tvres/spor/fbtv.png</thumbnail>
+</item>
+
+<item>
+<title>BJK TV</title>
+<link>rtmp://212-75.livestream.com:80/mogulus-stream-edge/27182818314/rtmp://212-72.livestream.com/affiliateStream/27182818314/6c69766572657065617465723a72746d703a2f2f3231322d37322e6c69766573747265616d2e636f6d2f6d6f67756c75732f32373138323831383331342f6c69766573747265616d</link>
+<thumbnail>https://skyimg.googlecode.com/svn/trunk/tvres/spor/bjk.png</thumbnail>
+</item>
+
+<item>
+<title>Bursaspor TV</title>
+<link>rtmp://stream.yayindayiz.biz:80/Bursaspor/bursaspor</link>
+<thumbnail>https://skyimg.googlecode.com/svn/trunk/tvres/spor/bstv.png</thumbnail>
+</item>
+
+<item>
+<title>TJK</title>
+<link>rtmp://tjk-l.mncdn.com/tjk/tjk2</link>
+<thumbnail>https://skyimg.googlecode.com/svn/trunk/tvres/spor/tjk3.png</thumbnail>
+</item>
+
+<item>
+<title>TRT SPOR (Alternatif)</title>
+<link>rtmp://trtspor-l.mncdn.com/trtspor4/trtspor4</link>
+<thumbnail>https://skyimg.googlecode.com/svn/trunk/tvres/spor/trtspor.png</thumbnail>
+</item>
+
+<item->
+<title>NTV Spor [COLOR green](Alternatif)[/COLOR]</title>
+<link>rtmp://84.240.3.201:80/penkitv/trstream14</link>
+<thumbnail>https://skyimg.googlecode.com/svn/trunk/tvres/spor/ntvspor.png</thumbnail>
+</item>
+
+<item->
+<title>NTV Spor [COLOR green](Alternatif)[/COLOR]</title>
+<link>rtmp://dogus-live.mncdn.com/tv_ntvspor/ntvspor3 swfUrl=http://www.joomlarulez.com pageUrl=http://www.canlitvx.com live=true</link>
+<thumbnail>https://skyimg.googlecode.com/svn/trunk/tvres/spor/ntvspor.png</thumbnail>
+</item>
+
+<item->
+<title>NTV Spor [COLOR green](Alternatif)[/COLOR]</title>
+<link>http://85.111.3.55/ntvspor</link>
+<thumbnail>https://skyimg.googlecode.com/svn/trunk/tvres/spor/ntvspor.png</thumbnail>
+</item>
+
+<item>
+<title>FB TV (Alternatif)</title>
+<link>http://www.fbtvonline.com/Members/fbtvonline.com_anon.aspx?Rate=173</link>
+<thumbnail>https://skyimg.googlecode.com/svn/trunk/tvres/spor/fbtv.png</thumbnail>
+</item>

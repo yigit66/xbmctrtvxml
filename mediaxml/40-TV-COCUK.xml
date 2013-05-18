@@ -1,0 +1,74 @@
+﻿<channels>
+
+<channel>
+
+<name>COCUK KANALLARI</name>
+<thumbnail>https://skyimg.googlecode.com/svn/trunk/tvres/ana/40-COCUK.png</thumbnail>
+<items>	
+
+<item>
+<title>[COLOR orange]Nickelodeon[/COLOR][COLOR darkslategray]HD[/COLOR][COLOR red]T[/COLOR][COLOR white]R[/COLOR][COLOR sienna] (ru-eng-[COLOR red]T[/COLOR][COLOR white]R[/COLOR])[/COLOR]</title>Nickelodeon HD TR
+<link>http://95.188.125.130:1234/udp/233.7.70.164:5000</link>
+<thumbnail>https://skyimg.googlecode.com/svn/trunk/tvres/cocuk/nickelodeonhd.png</thumbnail>
+</item>
+
+<item->
+<title>CARTOON NETWORK</title>
+<link>rtmp://195.33.219.9:1935/live/cartoon_1</link>
+<thumbnail>https://skyimg.googlecode.com/svn/trunk/tvres/cocuk/cn.png</thumbnail>
+</item>
+
+<item>
+<title>KARAMEL TV</title>
+<link>rtmp://strm-3.tr.medianova.tv:1935/karamel/karamel</link>
+<thumbnail>https://skyimg.googlecode.com/svn/trunk/tvres/cocuk/karameltv.png</thumbnail>
+</item>
+
+<item->
+<title>KiDZ</title>
+<link>rtmp://origin3.nar.tv/dvrh264/kidz/mp4:kidz pageURL=http://www.yildiz.tv swfUrl=http://www.yildiz.tv live=1</link>
+<thumbnail>https://skyimg.googlecode.com/svn/trunk/tvres/cocuk/kidz-animez.png</thumbnail>
+</item>
+
+<item>
+<title>Yumurcak TV</title>
+<link>rtmp://eu01.kure.tv:80/liveedge/yumurcak3 pageUrl=http://www.kure.tv swfUrl=http://web1.kure.tv</link>
+<thumbnail>https://skyimg.googlecode.com/svn/trunk/tvres/cocuk/yumurcak.png</thumbnail>
+</item>
+
+<item>
+<title>minika cocuk</title>
+<link>rtmp://37.130.228.52:443/minikacocuk/minikacocuk3 pageUrl=http://www.minika.com.tr swfUrl=http://i.tmgrup.com.tr</link>
+<thumbnail>https://skyimg.googlecode.com/svn/trunk/tvres/cocuk/minikac.png</thumbnail>
+</item>
+
+<item>
+<title>minika go</title>
+<link>rtmp://5.63.145.228:443/minika/minika3 pageUrl=http://www.minika.com.tr swfUrl=http://i.tmgrup.com.tr</link>
+<thumbnail>https://skyimg.googlecode.com/svn/trunk/tvres/cocuk/minikag.png</thumbnail>
+</item>
+
+<item>
+<title>Planet Cocuk Tv</title>
+<link>rtmp://planetler.ercdn.net:1935/live/planet2 pageUrl=http://www.planetler.com swfUrl=http://fpdownload.adobe.com live=true</link>
+<thumbnail>https://skyimg.googlecode.com/svn/trunk/tvres/cocuk/planetc3.png</thumbnail>
+</item>
+
+<item>
+<title>TRT COCUK</title>
+<link>rtsp://95.0.159.139/TV4</link>
+<thumbnail>https://skyimg.googlecode.com/svn/trunk/tvres/cocuk/trtc.png</thumbnail>
+</item>
+
+<item>
+<title>cizgi film tv</title>
+<link>http://yayin7.canliyayin.org/cizgifilmtv</link>
+<thumbnail>https://skyimg.googlecode.com/svn/trunk/tvres/cocuk/disney1.png</thumbnail>
+</item>
+
+</items>
+
+</channel>
+
+</channels>
+

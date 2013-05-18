@@ -1,0 +1,210 @@
+<item>
+<title>[COLOR darkslategray]TRT[/COLOR][COLOR darkgray]1[/COLOR]</title>TRT1
+<link>rtmp://mn-l.mncdn.com/trt1/trt1</link>
+<thumbnail>https://skyimg.googlecode.com/svn/trunk/tvres/ulusal/trt1.png</thumbnail>
+</item>
+http://95.211.198.204:1935/akamairtmp/d2c82e3b440738fd3006a70111f1fb42_live_0_0.stream/playlist.m3u8
+<item>
+<title>STAR[COLOR white]TV[/COLOR]</title>STAR TV
+<link>rtmpe://cp195822.live.edgefcs.net:1935/live playpath=1_arugyvor_1@93816 pageURL=http://www.tvyo.com swfUrl=http://dogus.kaltura.com.edgesuite.net live=true</link>
+<thumbnail>https://skyimg.googlecode.com/svn/trunk/tvres/ulusal/startv.png</thumbnail>
+</item>
+
+<item>
+<title>SHOW[COLOR white]TV[/COLOR]</title>SHOWTV
+<link>mms://yayin5.canlitv.com/showtv</link>
+<thumbnail>https://skyimg.googlecode.com/svn/trunk/tvres/ulusal/showtv.png</thumbnail>
+</item>
+
+<item>
+<title>KANAL[COLOR darkgray]D[/COLOR]</title>KANAL D
+<link>rtmp://live.dtv.cubecdn.net/kdmobil/KanalD1 pageURL=http://www.kanald.com.tr swfUrl=http://www.kanald.com.tr live=1</link>
+<thumbnail>https://skyimg.googlecode.com/svn/trunk/tvres/ulusal/kanald.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]A[/COLOR][COLOR white]TV[/COLOR]</title>ATV
+<link>rtmp://5.63.151.4/atv/atv2 pageURL=http://www.atv.com.tr swfUrl=http://i.tmgrup.com.tr</link>
+<thumbnail>https://skyimg.googlecode.com/svn/trunk/tvres/ulusal/atv2.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]CINE[/COLOR][COLOR yellow]5[/COLOR]</title>CINE5
+<link>http://yayin.cine5.com.tr:80/cine5</link>
+<thumbnail>https://skyimg.googlecode.com/svn/trunk/tvres/ulusal/cine5.png</thumbnail>
+</item>
+
+<item>
+<title>TV[COLOR white]2[/COLOR]</title>TV2
+<link>rtmp://live.dtv.cubecdn.net/tv2/TV2_3 pageUrl=http://www.tv2.com.tr swfUrl=http://www.tv2.com.tr live=true</link>
+<thumbnail>https://skyimg.googlecode.com/svn/trunk/tvres/ulusal/tv2.png</thumbnail>
+</item>
+
+<item->
+<title>KANAL[COLOR red]T[/COLOR][COLOR white]Ü[/COLOR][COLOR red]R[/COLOR][COLOR white]K[/COLOR]</title>KANALTÜRK
+<link>rtmp://origin1.nar.tv/dvrh264/kanalturk/mp4:kanalturk pageURL=http://www.yildiz.tv swfUrl=http://www.yildiz.tv live=1</link>
+<thumbnail>https://skyimg.googlecode.com/svn/trunk/tvres/ulusal/kanalturk.png</thumbnail>
+</item>
+
+<item>
+<title>KANAL[COLOR darkgray]7[/COLOR]</title>KANAL7
+<link>rtmp://live.gostream.nl:80/kanal7hq/kanal7hq pageUrl=http://www.gostream.nl swfUrl=http://www.gostream.nl live=true</link>
+<thumbnail>https://skyimg.googlecode.com/svn/trunk/tvres/ulusal/kanal7-2.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red]S[/COLOR]TV</title>STV
+<link>rtmp://eu02.kure.tv:80/liveedge/stv3 pageUrl=http://www.kure.tv swfUrl=http://web1.kure.tv</link>
+<thumbnail>https://skyimg.googlecode.com/svn/trunk/tvres/ulusal/stv.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]CNBC-e[/COLOR]</title>CNBC-e (Alternatif)
+<link>rtmpe://cp195822.live.edgefcs.net:1935/live playpath=1_dgzvflij_2@93821 pageURL=http://www.tvyo.com swfUrl=http://dogus.kaltura.com.edgesuite.net live=true</link>
+<thumbnail>https://skyimg.googlecode.com/svn/trunk/tvres/ulusal/cnbc-e.png</thumbnail>
+</item>
+
+<item>
+<title>E2</title>E2
+<link>rtmpe://cp195822.live.edgefcs.net:1935/live playpath=1_tpyd5fon_2@91303 pageURL=http://www.tvyo.com swfUrl=http://dogus.kaltura.com.edgesuite.net live=true</link>
+<thumbnail>https://skyimg.googlecode.com/svn/trunk/tvres/ulusal/e2.png</thumbnail>
+</item>
+
+<item->
+<title>TRT HD</title>TRT HD
+<link>rtmp://95.0.159.161/rtmplive/broadcast/ipad_trthd pageURL=http://www.trt.net.tr swfUrl=http://www.trt.net.tr live=true</link>
+<thumbnail>https://skyimg.googlecode.com/svn/trunk/tvres/ulusal/trthd.png</thumbnail>
+</item>
+
+<item>
+<title>TV8</title>TV8
+<link>rtmp://strm-3.tr.medianova.tv/tv8/tv8_live3 pageUrl=http://www.tv8.com.tr swfUrl=http://static.oroll.com live=1</link>
+<thumbnail>https://skyimg.googlecode.com/svn/trunk/tvres/ulusal/tv8.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orange]FOX[/COLOR]</title>FOX
+<link>rtmp://origin2.nar.tv/dvrh264/foxtv/mp4:foxtv pageURL=http://www.yildiz.tv swfUrl=http://www.yildiz.tv live=1</link>
+<thumbnail>https://skyimg.googlecode.com/svn/trunk/tvres/ulusal/fox.png</thumbnail>
+</item>
+
+<item->
+<title>BEYAZ TV</title>BEYAZ TV
+<link>rtmp://origin3.nar.tv/dvrh264/beyaz/mp4:beyaz pageURL=http://www.yildiz.tv swfUrl=http://www.yildiz.tv live=1</link>
+<thumbnail>https://skyimg.googlecode.com/svn/trunk/tvres/ulusal/beyaz2.png</thumbnail>
+</item>
+
+<item>
+<title>FLASH TV</title>FLASH TV
+<link>rtmp://stream1.yayinizle.com/flashtv/flashtv swfUrl=http://www.flashtv.com.tr/canliyayin/flowplayer-3.2.15.swf pageUrl=http://www.flashtv.com.tr/canliyayin/flashtvyayinizle.html</link>
+<thumbnail>https://skyimg.googlecode.com/svn/trunk/tvres/ulusal/flashtv.png</thumbnail>
+</item>
+
+<item>
+<title>KANAL A</title>KANAL A
+<link>rtsp://88.255.31.105:554/kanala1</link>
+<thumbnail>https://skyimg.googlecode.com/svn/trunk/tvres/ulusal/kanala.png</thumbnail>
+</item>
+
+<item>
+<title>Kanal B</title>Kanal B
+<link>rtmp://212.174.233.129/livepkgr/mylivestream swfUrl=http://www.kanalb.com.tr pageUrl=http://www.kanalb.com.tr live=true</link>
+<thumbnail>https://skyimg.googlecode.com/svn/trunk/tvres/ulusal/kanalb.png</thumbnail>
+</item>
+
+<item>
+<title>Kanal Avrupa</title>Kanal Avrupa
+<link>rtmp://kanal-avrupalivefs.fplive.net/kanal-avrupalive-live/_definst_/stream1 pageUrl=http://www.kanalavrupa.tv swfUrl=http://www.kanalavrupa.tv live=true</link>
+<thumbnail>https://skyimg.googlecode.com/svn/trunk/tvres/ulusal/kanalavrupa.png</thumbnail>
+</item>
+
+<item>
+<title>KANAL 26</title>KANAL 26
+<link>rtmp://yayin.tvdunyasi.tv:1935/live/eskisehir_kanal26</link>
+<thumbnail>https://skyimg.googlecode.com/svn/trunk/tvres/ulusal/kanal26.png</thumbnail>
+</item>
+
+<item>
+<title>Olay TV</title>Olay TV
+<link>rtmp://stream.yayindayiz.biz:80/olaytv/olaytv</link>
+<thumbnail>https://skyimg.googlecode.com/svn/trunk/tvres/ulusal/olay.png</thumbnail>
+</item>
+
+<item>
+<title>Mehtap TV</title>Mehtap TV
+<link>rtmp://eu01.kure.tv:80/liveedge/mehtap3 pageUrl=http://www.kure.tv swfUrl=http://web1.kure.tv</link>
+<thumbnail>https://skyimg.googlecode.com/svn/trunk/tvres/ulusal/mehtap2.png</thumbnail>
+</item>
+
+<item>
+<title>Meltem TV</title>Meltem TV
+<link>rtmp://213.128.92.166:80/meltemtvcanli/meltemtvcanli</link>
+<thumbnail>https://skyimg.googlecode.com/svn/trunk/tvres/ulusal/meltem.png</thumbnail>
+</item>
+
+<item>
+<title>MOBILITY</title>MOBILITY
+<link>rtmp://eu01.kure.tv:80/liveedge/mobility3 pageUrl=http://www.kure.tv swfUrl=http://web1.kure.tv live=1</link>
+<thumbnail>https://skyimg.googlecode.com/svn/trunk/tvres/ulusal/mobility.png</thumbnail>
+</item>
+
+<item>
+<title>AKILLI TV</title>AKILLI TV
+<link>rtmp://83.149.127.89:80/akillitv/akillitv</link>
+<thumbnail>https://skyimg.googlecode.com/svn/trunk/tvres/ulusal/akillitv.png</thumbnail>
+</item>
+rtsp://213.142.142.213/turkmenelitv 
+<item->
+<title>KANAL 7 EU</title>KANAL 7 EU
+<link>rtmp://livede.gostream.nl/kanal7/kanal7int pageUrl=http://www.gostream.nl swfUrl=http://www.gostream.nl live=true</link>
+<thumbnail>https://skyimg.googlecode.com/svn/trunk/tvres/ulusal/kanal7eu.png</thumbnail>
+</item>
+
+<item->
+<title>[COLOR red]S[/COLOR][COLOR white]TV[/COLOR]EU</title>SAMANYOLU TV EU
+<link>http://208.65.101.208/STVAVRUPA1052E</link>
+<thumbnail>https://skyimg.googlecode.com/svn/trunk/tvres/ulusal/stv-avrupa.png</thumbnail>
+</item>
+
+<item>
+<title>TGRT EU</title>TGRT EU
+<link>rtmp://live.tgrt.de/live/TGRT</link>
+<thumbnail>https://skyimg.googlecode.com/svn/trunk/tvres/ulusal/tgrt_eu.png</thumbnail>
+</item>
+
+<item>
+<title>YENIGUN TV</title>YENIGUN TV
+<link>rtmp://flashdemo.zogoxstreaming.com/demo/yeniguntv pageURL=http://www.yenigun.tv/ swfUrl=http://www.yenigun.tv/ live=1</link>
+<thumbnail>https://skyimg.googlecode.com/svn/trunk/tvres/ulusal/yeniguntv.png</thumbnail>
+</item>
+
+<item->
+<title>TRT1 [COLOR green](Alternatif)[/COLOR]</title>TRT1 (Alternatif)
+<link>rtmp://mn-l.mncdn.com/trt1/trt15</link>
+<thumbnail>https://skyimg.googlecode.com/svn/trunk/tvres/ulusal/trt1.png</thumbnail>
+</item>
+
+<item>
+<title>STAR TV [COLOR green](Alternatif)[/COLOR]</title>STAR TV (Alternatif)
+<link>rtmp://origin2.nar.tv/dvrh264/euros/mp4:euros pageURL=http://www.yildiz.tv swfUrl=http://www.yildiz.tv live=1</link>
+<thumbnail>https://skyimg.googlecode.com/svn/trunk/tvres/ulusal/startv.png</thumbnail>
+</item>
+
+<item->
+<title>EURO[COLOR darkgray]D[/COLOR]</title>EURO D
+<link>rtmp://origin3.nar.tv/dvrh264/eurod/mp4:eurod pageURL=http://www.yildiz.tv swfUrl=http://www.yildiz.tv live=1</link>
+<thumbnail>https://skyimg.googlecode.com/svn/trunk/tvres/ulusal/kanaldeu.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]CNBC-e[/COLOR] [COLOR green](Alternatif)[/COLOR]</title>CNBC-e (Alternatif)
+<link>rtmp://origin2.nar.tv/dvrh264/cnbce/mp4:cnbce pageURL=http://www.yildiz.tv swfUrl=http://www.yildiz.tv live=1</link>
+<thumbnail>https://skyimg.googlecode.com/svn/trunk/tvres/ulusal/cnbc-e.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]CNBC-e[/COLOR] [COLOR green](Alternatif)[/COLOR]</title>CNBC-e (Alternatif)
+<link>http://85.111.3.55/cnbce</link>
+<thumbnail>https://skyimg.googlecode.com/svn/trunk/tvres/ulusal/cnbc-e.png</thumbnail>
+</item>
+

@@ -1,0 +1,44 @@
+<channels>
+
+<channel>
+
+<name>MUZIK</name>
+<thumbnail>https://skyimg.googlecode.com/svn/trunk/tvres/ana/70-MUZIK.png</thumbnail>
+<items>
+
+<item>
+<title>Vatan</title>
+<link>rtmp://yayin.mirasis.com.tr/live/vatantv</link>
+<thumbnail>https://skyimg.googlecode.com/svn/trunk/tvres/muzik/vatantv.png</thumbnail>
+</item>
+
+<item>
+<title>KRALTV</title>
+<link>rtmpe://cp195822.live.edgefcs.net:1935/live/1_3u7oy7gf_3@93823 pageURL=http://www.tvyo.com swfUrl=http://dogus.kaltura.com.edgesuite.net live=true</link>
+<thumbnail>https://skyimg.googlecode.com/svn/trunk/tvres/muzik/kraltv.png</thumbnail>
+</item>
+
+<item>
+<title>KRAL POP</title>
+<link>rtmpe://cp195822.live.edgefcs.net:1935/live/1_df03h1mc_3@93826 pageURL=http://www.tvyo.com swfUrl=http://dogus.kaltura.com.edgesuite.net live=true</link>
+<thumbnail>https://skyimg.googlecode.com/svn/trunk/tvres/muzik/kralpop.png</thumbnail>
+</item>
+
+<item>
+<title>POWERTURK</title>
+<link>rtmp://46.20.4.42:80/powerturk/powerturk1</link>
+<thumbnail>https://skyimg.googlecode.com/svn/trunk/tvres/muzik/powerturk.png</thumbnail>
+</item>
+
+<item>
+<title>TMB</title>
+<link>rtmp://origin2.nar.tv/dvrh264/tmbtv/mp4:tmbtv pageURL=http://www.yildiz.tv swfUrl=http://www.yildiz.tv live=1</link>
+<thumbnail>https://skyimg.googlecode.com/svn/trunk/tvres/muzik/tmb.png</thumbnail>
+</item>
+
+</items>
+
+</channel>
+
+</channels>
+
