@@ -1,11 +1,5 @@
 http://79.143.81.44:8080/cinemax
 
-<item>
-<title>[COLOR dimgray]XBMCTR[/COLOR][COLOR red] VIZYON[/COLOR]</title>SKY FILM
-<link>rtmp://poviss.popler.tv:1935/publishlive?/skymctv</link>
-<thumbnail>https://skyimg.googlecode.com/svn/trunk/tvres/sinema/xbmctrfilm.png</thumbnail>
-</item>
-
 <item->
 <title>SKY[COLOR darkslategray]PREMÝUM[/COLOR]</title>SKY PREMÝUM1
 <link>http://elma21:2121@iptv.tjurk.com:5958</link>
